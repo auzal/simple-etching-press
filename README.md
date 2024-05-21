@@ -14,4 +14,6 @@ More information and instructions to come.
 
 ![](/images/press-views.png)
 
+![](/images/section.gif)
+
 
