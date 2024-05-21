@@ -10,4 +10,8 @@ More information and instructions to come.
 
 ![](/images/etching-press.jpg)
 
+![](/images/press-cross-section.jpg)
+
 ![](/images/press-views.png)
+
+
